@@ -9,9 +9,9 @@ import java.util.Scanner;
 
 public class ChatBot {
 
-    // Replace with your actual API keys
+
     private static final String WEATHER_API_KEY = "b62ea93fe7d6995001a70369b9262d96";
-    private static final String EXCHANGE_API_KEY = "f0c4df7498ad32d500b7bb07";  // Replace with your ExchangeRate-API key
+    private static final String EXCHANGE_API_KEY = "f0c4df7498ad32d500b7bb07";  
     // Base URLs of the APIs
     private static final String WEATHER_BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
     private static final String EXCHANGE_BASE_URL = "https://v6.exchangerate-api.com/v6/";
